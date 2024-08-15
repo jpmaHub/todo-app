@@ -1,0 +1,8 @@
+
+.vite
+node_modules
+package-lock.json
+
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
